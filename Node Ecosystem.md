@@ -1,5 +1,5 @@
 # Node Ecosystem
-### why this topic matters to Software Engineering Students
+### Why this topic matters to Software Engineering Students
 By studying Node.js, software engineering students can enhance their programming proficiency, broaden their understanding of server-side development, and gain practical skills that are in high demand in the software industry. Node.js has become a fundamental technology for modern application development, making it a valuable and relevant topic to explore within the context of software engineering studies.
 
 
