@@ -1,5 +1,5 @@
 # Reading Notes
-## The reading notes website is a place to document my observations, questions, and insights from my reading assignments. It serves as a centralized repository to record and organize my thoughts on the course materials.
+The reading notes website is a place to document my observations, questions, and insights from my reading assignments. It serves as a centralized repository to record and organize my thoughts on the course materials.
 - Useful resources:
   - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
   - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
