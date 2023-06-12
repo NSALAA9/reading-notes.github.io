@@ -3,6 +3,7 @@ The reading notes website is a place to document my observations, questions, and
 - Useful resources:
   - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
   - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+  - [test](test.md)
 
 
 | Course                | Topics Covered                   |
