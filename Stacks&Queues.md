@@ -7,3 +7,4 @@
   
 **Imagine a queue is waiting in line at a ticket counter. When people arrive, they join the queue at the rear, and the person at the front gets served. As each person gets served, they leave the queue from the front, maintaining the order in which they arrived.**
   
+![download](https://github.com/NSALAA9/reading-notes.github.io/assets/129075779/42b264cf-ed23-41b5-bdef-48a6d5c5563d)
